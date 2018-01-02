@@ -1,0 +1,24 @@
+.center {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.frontPage {
+  background-image: url('/cover_map.png');
+  background-size: cover;
+  height: 100%;
+  font-family: 'Lora', Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Lora', Arial, sans-serif;
+  font-weight: 700;
+}
+
+.lahtiShield {
+  height: 200px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
