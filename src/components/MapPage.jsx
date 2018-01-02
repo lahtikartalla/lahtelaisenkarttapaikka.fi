@@ -46,7 +46,7 @@ class MapPage extends Component {
 
   render() {
     return (
-      <div className="mapPage">
+      <div className="mapPage container-fluid">
         <div className="row">
           <div className="col-md-12">
             <div id="mapContainer" className="mapContainer" />

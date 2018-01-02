@@ -5,3 +5,7 @@
 .mapPage {
   height: 100%;
 }
+
+.noPadding {
+  padding: 0;
+}
