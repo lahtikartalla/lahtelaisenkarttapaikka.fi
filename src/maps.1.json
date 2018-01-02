@@ -1,0 +1,43 @@
+{
+  "basemaps": [
+    {
+      "name": "1875",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/senaatti"
+    },
+    {
+      "name": "1870 keskusta",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1870",
+      "bounds": [60.98123272562094, 25.64735595790562, 60.98672085450994, 25.66309727831424],
+      "transparent": true,
+      "maxzoom": 17
+    },
+    {
+      "name": "1925",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1925",
+      "bounds": [60.94991191610331, 25.57166429327330, 61.02334647592856, 25.72523711688948]
+    },
+    {
+      "name": "1938",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1930"
+    },
+    {
+      "name": "1952",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1952"
+    },
+    {
+      "name": "1963",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1963",
+      "bounds": [60.90962182686773, 25.46624196244031, 61.04392517130266, 25.72040136532188]
+    },
+    {
+      "name": "1978",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1978",
+      "bounds": [60.93177205563259, 25.41192087284762, 61.04222792287798, 25.76451600271654]
+    },
+    {
+      "name": "1992",
+      "url": "http://lahtikuvat.s3-website.eu-central-1.amazonaws.com/kartat/1992",
+      "bounds": [60.93172689388582, 25.41065531576696, 61.04207193067431, 25.76326810598606]
+    }
+  ]
+}
