@@ -6,7 +6,7 @@ import MapPage from './MapPage';
 
 export default () => (
   <div>
-    <Route path="/" exact component={FrontPage} />
+    <Route path="/" component={FrontPage} />
     <Route path="/kartta" component={MapPage} />
   </div>
 );
