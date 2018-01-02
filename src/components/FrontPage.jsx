@@ -9,7 +9,7 @@ export default () => (
       <div className="center">
         <h1>Lahtikartalla.fi</h1>
 
-        <img alt="Lahden vaakuna" className="lahtiShield" src="/dist/Lahti.vaakuna.svg" />
+        <img alt="Lahden vaakuna" className="lahtiShield" src="dist/Lahti.vaakuna.svg" />
 
         <p>
           Lahtikartalla.fi on sivusto, joka perustuu karttoihin eri

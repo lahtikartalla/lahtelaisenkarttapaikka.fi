@@ -6,7 +6,7 @@
 }
 
 .frontPage {
-  background-image: url('/dist/cover_map.png');
+  background-image: url('../../dist/cover_map.png');
   background-size: cover;
   height: 100%;
   font-family: 'Lora', Arial, sans-serif;
