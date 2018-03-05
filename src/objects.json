@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1950,
+        "type": "photo",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/KUVEV700002_270_Hyppyrimaki.jpg",
+        "source": "Lahden kaupunginmuseon kuva-arkisto",
+        "title": "Lahden vanha hyppyrimäki 1950-luvulla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.634021759033203,
+          60.98212235739712
+        ]
+      }
+    }
+  ]
+}
