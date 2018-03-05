@@ -17,6 +17,23 @@
           60.98212235739712
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1950,
+        "type": "photo",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/800px-Ha%CC%88meenkatu_1955.jpg",
+        "source": "",
+        "title": "Lahden kirjasto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.655136108398438,
+          60.98232012286481
+        ]
+      }
     }
   ]
 }
