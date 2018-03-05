@@ -31,7 +31,7 @@ class MapPage extends Component {
     this.leafletMap = L.map('mapContainer', {
       maxZoom: 16,
       minZoom: 14
-    }).setView([60.985, 25.66], 15);
+    }).setView([60.985, 25.65], 15);
 
     this.addLayer(this.state.selectedYear);
     this.addObjects(this.state.selectedYear);
