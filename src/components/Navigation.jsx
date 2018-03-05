@@ -1,6 +1,5 @@
 import React from 'react';
 import { Navbar, Nav, NavItem } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
 
 export default () => (
   <Navbar>
@@ -9,11 +8,9 @@ export default () => (
     </Navbar.Header>
     <Navbar.Collapse>
       <Nav>
-        <NavItem>ETUSIVU</NavItem>
-        <NavItem>SISÄLTÖ</NavItem>
-        <NavItem>
-          <Link to="/info">INFO</Link>
-        </NavItem>
+        <NavItem href="#/">ETUSIVU</NavItem>
+        <NavItem href="#/kartta">KARTTA</NavItem>
+        <NavItem href="#/info">INFO</NavItem>
       </Nav>
     </Navbar.Collapse>
   </Navbar>

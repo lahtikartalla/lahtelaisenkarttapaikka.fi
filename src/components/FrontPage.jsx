@@ -20,7 +20,7 @@ export default () => (
           <p>
           Tämä sivu esittelee Lahden historiaa karttojen, kuvien, videoiden ja tekstin muodossa.
           Vanhin kartta on 1700-luvulta, karttoja on jokaiselta vuosikymmeneltä alkaen 1870-luvulta.
-          Nykyisen vertailukarttana toimii Google Maps.<br/>
+          Nykyisen vertailukarttana toimii Google Maps.<br />
           Sivun tarkemmin esittely <Link to="/info">täällä</Link>.
           </p>
 

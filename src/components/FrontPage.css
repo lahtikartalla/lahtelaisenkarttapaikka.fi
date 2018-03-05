@@ -22,3 +22,7 @@ h1 {
   color: #000;
   font-size: 1.25em;
 }
+
+.navbar {
+  margin-bottom: 0;
+}

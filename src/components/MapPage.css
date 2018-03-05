@@ -1,9 +1,5 @@
 .mapContainer {
-  height: 80%;
-}
-
-.mapPage {
-  height: 100%;
+  height: calc(100% - 120px);
 }
 
 .noPadding {
