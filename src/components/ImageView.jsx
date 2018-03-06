@@ -1,12 +1,9 @@
 import React from 'react';
-import { func, object, bool } from 'prop-types';
+import { func, object } from 'prop-types';
 import { Image, Row, Col } from 'react-bootstrap';
+import ReactAudioPlayer from 'react-audio-player';
 
-const ImageView = ({ show, feature, close }) => {
-  if (!show) {
-    return null;
-  }
-
+const ImageView = ({ feature, close }) => {
   return (
     <div className="imageView">
       <div
@@ -25,6 +22,8 @@ const ImageView = ({ show, feature, close }) => {
             <div className="imageText">
               {feature.properties.title}
               <div className="sourceText">{feature.properties.source}</div>
+              {feature.properties.type === 'audio' ?
+                <ReactAudioPlayer src={feature.properties.audio} autoPlay controls controlsList="nodownload" /> : null}
             </div>
           </div>
         </Col>
@@ -34,7 +33,6 @@ const ImageView = ({ show, feature, close }) => {
 };
 
 ImageView.propTypes = {
-  show: bool.isRequired,
   feature: object.isRequired, // eslint-disable-line
   close: func.isRequired
 };

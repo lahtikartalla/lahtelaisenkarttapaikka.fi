@@ -34,6 +34,164 @@
           60.98232012286481
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVEV700002_12_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "title": "",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.638184547424313,
+          60.983517098115136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVEV700002_1326_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "title": "",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.645759105682373,
+          60.98352750639786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVV741403_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "title": "",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6615948677063,
+          60.98007176923183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVN16825_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.64846277236938,
+          60.9796970281635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVV660127_8_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.624923706054688,
+          60.96648458252507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVV740758_1_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "title": "",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.62007427215576,
+          60.96665120388229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/DIGDPV2009080_01.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "title": "",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.622262954711914,
+          60.96785918261588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVN16828_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.677323341369625,
+          60.986452098792036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1918,
+        "type": "audio",
+        "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVP990021_374_fixed.jpg",
+        "source": " Lahden kaupunginmuseon kuva-arkisto",
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.645265579223633,
+          60.98001972212542
+        ]
+      }
     }
   ]
 }

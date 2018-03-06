@@ -5,6 +5,10 @@
       "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/senaatti"
     },
     {
+      "name": "1918",
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1930-perus"
+    },
+    {
       "name": "1920",
       "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1925",
       "bounds": [60.94991191610331, 25.57166429327330, 61.02334647592856, 25.72523711688948]

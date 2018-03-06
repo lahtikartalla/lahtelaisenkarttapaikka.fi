@@ -73,7 +73,7 @@ class MapPage extends Component {
   render() {
     return (
       <div className="mapPage container-fluid">
-        <ImageView show={this.state.showImage} feature={this.state.feature} close={this.close} />
+        {this.state.showImage ? <ImageView feature={this.state.feature} close={this.close} /> : null}
         <div className="row">
           <div className="col-md-12">
             <div id="mapContainer" className="mapContainer" />
