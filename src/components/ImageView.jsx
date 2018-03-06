@@ -18,7 +18,7 @@ const ImageView = ({ show, feature, close }) => {
         X
       </div>
       <Row>
-        <Col md={2}>
+        <Col md={10} mdOffset={1}>
           <div className="imageContainer">
             <Image src={feature.properties.url} responsive />
             <div className="imageText">
