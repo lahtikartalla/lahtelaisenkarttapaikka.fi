@@ -22,7 +22,7 @@ L.Icon.Default.mergeOptions({
 class MapPage extends Component {
   state = {
     years: maps.basemaps.map(map => Number(map.name)),
-    selectedYear: 1950,
+    selectedYear: this.props.year || 1950,
     showImage: false,
     feature: null
   };
@@ -30,8 +30,8 @@ class MapPage extends Component {
   componentDidMount() {
     this.leafletMap = L.map('mapContainer', {
       maxZoom: 16,
-      minZoom: 14
-    }).setView([60.985, 25.65], 15);
+      minZoom: 13
+    }).setView([60.98, 25.65], 14);
 
     this.addLayer(this.state.selectedYear);
     this.addObjects(this.state.selectedYear);
@@ -45,6 +45,7 @@ class MapPage extends Component {
     }
 
     this.currentLayer = L.tileLayer(`${maps.basemaps[index].url}/{z}/{x}/{y}.png`, { tms: true }).addTo(this.leafletMap);
+    this.leafletMap.setMinZoom(maps.basemaps[index].hiZoom ? 13 : 14);
   }
 
   addObjects = (year) => {
@@ -73,7 +74,8 @@ class MapPage extends Component {
   render() {
     return (
       <div className="mapPage container-fluid">
-        {this.state.showImage ? <ImageView feature={this.state.feature} close={this.close} /> : null}
+        {this.state.showImage ?
+          <ImageView feature={this.state.feature} close={this.close} /> : null}
         <div className="row">
           <div className="col-md-12">
             <div id="mapContainer" className="mapContainer" />
