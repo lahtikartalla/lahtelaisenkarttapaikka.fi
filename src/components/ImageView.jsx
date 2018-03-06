@@ -18,10 +18,10 @@ const ImageView = ({ show, feature, close }) => {
       >
         X
       </div>
-      <Row>
-        <Col md={10} mdOffset={1}>
+      <Row style={{ height: '80%' }}>
+        <Col md={10} mdOffset={1} style={{ height: '100%' }}>
           <div className="imageContainer" onClick={close}>
-            <Image src={feature.properties.url} responsive />
+            <Image src={feature.properties.url} thumbnail />
             <div className="imageText">
               {feature.properties.title}
               <div className="sourceText">{feature.properties.source}</div>
