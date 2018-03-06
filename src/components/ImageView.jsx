@@ -1,5 +1,6 @@
 import React from 'react';
-import { Image, Row, Col, Grid } from 'react-bootstrap';
+import { func, object, bool } from 'prop-types';
+import { Image, Row, Col } from 'react-bootstrap';
 
 const ImageView = ({ show, feature, close }) => {
   if (!show) {
@@ -19,7 +20,7 @@ const ImageView = ({ show, feature, close }) => {
       </div>
       <Row>
         <Col md={10} mdOffset={1}>
-          <div className="imageContainer">
+          <div className="imageContainer" onClick={close}>
             <Image src={feature.properties.url} responsive />
             <div className="imageText">
               {feature.properties.title}
@@ -30,6 +31,12 @@ const ImageView = ({ show, feature, close }) => {
       </Row>
     </div>
   );
+};
+
+ImageView.propTypes = {
+  show: bool.isRequired,
+  feature: object.isRequired, // eslint-disable-line
+  close: func.isRequired
 };
 
 export default ImageView;
