@@ -3,12 +3,12 @@ import { Route } from 'react-router-dom';
 
 import FrontPage from './FrontPage';
 import MapPage from './MapPage';
-import Navigation from './Navigation';
+// import Navigation from './Navigation';
 import InfoPage from './InfoPage';
 
 export default () => (
   <div>
-    <Navigation />
+    { /* <Navigation /> */ }
     <Route path="/" exact component={FrontPage} />
     <Route path="/kartta" component={MapPage} />
     <Route path="/info" component={InfoPage} />

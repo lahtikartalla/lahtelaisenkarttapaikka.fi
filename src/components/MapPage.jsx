@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import { number } from 'prop-types';
 import L from 'leaflet';
 
 import 'leaflet/dist/leaflet.css';
 
-import YearSelector from './YearSelector';
+// import YearSelector from './YearSelector';
 
 import './MapPage.css';
 import maps from '../maps.json';
@@ -81,7 +82,7 @@ class MapPage extends Component {
             <div id="mapContainer" className="mapContainer" />
           </div>
         </div>
-        <div className="row">
+        { /* <div className="row">
           <div className="col-md-12">
             <YearSelector
               years={this.state.years}
@@ -89,10 +90,18 @@ class MapPage extends Component {
               selectYear={this.selectYear}
             />
           </div>
-        </div>
+        </div> */ }
       </div>
     );
   }
 }
+
+MapPage.propTypes = {
+  year: number
+};
+
+MapPage.defaultProps = {
+  year: 1950
+};
 
 export default MapPage;

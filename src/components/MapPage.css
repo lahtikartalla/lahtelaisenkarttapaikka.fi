@@ -1,5 +1,6 @@
 .mapContainer {
-  height: calc(100vh - 120px);
+  /* height: calc(100vh - 120px); */
+  height: 100vh;
 }
 
 .noPadding {

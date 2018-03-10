@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { Row, Col } from 'react-bootstrap';
 
 import './FrontPage.css';
@@ -17,11 +16,14 @@ export default () => (
           Tervetuloa lahtikartalla.fi-sivustolle!
           </p>
 
+          <p>SIVUSTO AVATAAN KEVÄÄLLÄ 2018.</p>
+
           <p>
-          Tämä sivu esittelee Lahden historiaa karttojen, kuvien, videoiden ja tekstin muodossa.
-          Vanhin kartta on 1700-luvulta, karttoja on jokaiselta vuosikymmeneltä alkaen 1870-luvulta.
-          Nykyisen vertailukarttana toimii Google Maps.<br />
-          Sivun tarkemmin esittely <Link to="/info">täällä</Link>.
+          Sivu esittelee Lahden historiaa karttojen, kuvien, videoiden ja
+          tekstin muodossa. Sivun runkona toimii vanhat kartat, joita on
+          jokaiselta vuosikymmeneltä alkaen 1870-luvulta. Vanhoja karttoja voi
+          vertailla nykyhetkeen Google Mapsin avulla. Sivuston kartat ovat saatu
+          Lahden kaupungilta.
           </p>
 
           <p>
@@ -33,11 +35,11 @@ export default () => (
             puheenjohtaja@lahtiseura.fi
           </p>
 
-          <Link to="/kartta">
+          {/* <Link to="/kartta">
             <button className="btn btn-lg btn-success">
               Kartalle
             </button>
-          </Link>
+          </Link> */}
         </Col>
       </Row>
     </div>
