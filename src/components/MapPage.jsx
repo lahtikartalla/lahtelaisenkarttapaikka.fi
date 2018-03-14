@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { number } from 'prop-types';
 import L from 'leaflet';
+import { Modal } from 'react-bootstrap';
 
 import 'leaflet/dist/leaflet.css';
 
@@ -91,6 +92,11 @@ class MapPage extends Component {
             />
           </div>
         </div> */ }
+        <Modal backdrop="static" show bsSize="lg">
+          <Modal.Body>
+            1918 kuunnelmat julkaistaan myöhemmin tällä sivustolla.
+          </Modal.Body>
+        </Modal>
       </div>
     );
   }
