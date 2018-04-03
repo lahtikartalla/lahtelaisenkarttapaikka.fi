@@ -88,7 +88,8 @@
         "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVV741403_fixed.jpg",
         "source": "Lahden kaupunginmuseon kuva-arkisto",
         "title": "Lahden kansanopisto ja synnytyssairaala",
-        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3"
+        "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/K12_Ensimmainen_haavoittunut.mp3",
+        "text": "Sotaan osallistui naisia monissa eri tehtävissä, myös taistelijoina. Naiset kunnostautuivat ympäri maata myös lääkintätehtävissä. Koulutus niin lääkintätehtäviin kuin aseenkäyttötaitoihin oli hyvin lyhyt, vain muutamia oppitunteja. Hyvinkin pienillä tiedoilla varustettuna naiset hoitivat taisteluissa haavoittuneita.\n\nKansanopistolla oli sodan aikana kenttäsairaala. Tässä kohtauksessa juuri sanitäärin koulutuksensa käyneet nuoret Elsa ja Hilma saavat ensimmäisen potilaansa juuri kun sairaalan osaavammat ovat kouluttamassa muita tulokkaita.\n\nKirjoittanut Katja Hilska-Keinänen.\n\nNäyttelijät: \nElsa: Liisa Loponen\nHilma: Saana Hyvärinen\nSotilas: Paavo Kääriäinen\n"
       },
       "geometry": {
         "type": "Point",
@@ -193,7 +194,8 @@
         "url": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/photos/1918/KUVKUVN16828_fixed.jpg",
         "source": " Lahden kaupunginmuseon kuva-arkisto.  Kuva Erik Linderborg",
         "audio": "https://s3.eu-central-1.amazonaws.com/www.lahtikartalla.fi/audio/sorsat.mp3",
-        "title": "Lahden vanha hautausmaa, hautajaiset."
+        "title": "Lahden vanha hautausmaa, hautajaiset.",
+        "text": ""
       },
       "geometry": {
         "type": "Point",

@@ -3,6 +3,17 @@ import { func, object } from 'prop-types';
 import { Image, Row, Col } from 'react-bootstrap';
 import ReactAudioPlayer from 'react-audio-player';
 
+const audioText = feature => (
+  <div className="audioText">
+    {feature.properties.text.split('\n').map((item, index) => (
+      <span key={index}>
+        {item}
+        <br />
+      </span>
+    ))}
+  </div>
+);
+
 const ImageView = ({ feature, close }) => {
   return (
     <div className="imageView">
@@ -24,6 +35,7 @@ const ImageView = ({ feature, close }) => {
               <div className="sourceText">{feature.properties.source}</div>
               {feature.properties.type === 'audio' ?
                 <ReactAudioPlayer src={feature.properties.audio} autoPlay controls controlsList="nodownload" /> : null}
+              {feature.properties.type === 'audio' ? audioText(feature) : null}
             </div>
           </div>
         </Col>
