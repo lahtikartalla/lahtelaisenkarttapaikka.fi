@@ -15,6 +15,12 @@ const audioText = feature => (
 );
 
 const ImageView = ({ feature, close }) => {
+  if (gtag) {
+    gtag('event', 'audioView', {
+      label: feature.properties.title
+    });
+  }
+
   return (
     <div className="imageView">
       <div
