@@ -1,14 +1,10 @@
 import React from 'react';
-import Info from './InfoPages/Info';
-import Sources from './InfoPages/Sources';
-import Links from './InfoPages/Links';
-import Contact from './InfoPages/Contact';
+import ReactMarkdown from 'react-markdown';
+
+import infoContent from '../texts/info.md';
 
 export default () => (
   <div className="container">
-    <Info />
-    <Sources />
-    <Links />
-    <Contact />
+    <ReactMarkdown source={infoContent} escapeHtml={false} />
   </div>
 );
