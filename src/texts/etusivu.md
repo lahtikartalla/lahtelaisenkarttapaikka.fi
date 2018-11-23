@@ -4,9 +4,10 @@ Tervetuloa lahtikartalla.fi-sivustolle!
 
 Sivu esittelee Lahden historiaa karttojen, kuvien, videoiden ja tekstin muodossa.
 Sivun runkona toimii vanhat kartat, joita on jokaiselta vuosikymmeneltä alkaen 1870-luvulta.
-Vanhoja karttoja voi vertailla nykyhetkeen Google Mapsin avulla. Sivuston kartat ovat saatu
-Lahden kaupungilta.
+Vanhoja karttoja voi vertailla nykyhetkeen Google Mapsin avulla. Sivuston kartat ovat Lahden kaupungin Teknisen
+ja ympäristötoimialan arkistosta.
 
 Sivuston ovat toteuttaneet [Lahti-Seura ry](http://lahtiseura.fi) ja Juuso Lehtinen.
 
-Palaute, kehitysideat ja tiedustelut ovat tervetulleita osoitteeseen puheenjohtaja@lahtiseura.fi
+Palaute, kehitysideat ja tiedustelut ovat tervetulleita!
+Lisätietoja antaa Sauli Hirvonen, puheenjohtaja@lahtiseura.fi
