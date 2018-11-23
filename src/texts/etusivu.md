@@ -1,6 +1,6 @@
 Tervetuloa lahtikartalla.fi-sivustolle!
 
-**SIVUSTO AVATAAN KEVÄÄLLÄ 2018.**
+**SIVUSTO ON TYÖN ALLA.**
 
 Sivu esittelee Lahden historiaa karttojen, kuvien, videoiden ja tekstin muodossa.
 Sivun runkona toimii vanhat kartat, joita on jokaiselta vuosikymmeneltä alkaen 1870-luvulta.
