@@ -19,15 +19,15 @@ Tekninen toteutus on Juuso Lehtisen.
 
 ### Yhteisöt ja sivustot
 
-* Albumit auki [kuvat]
-* FINNA [kuvat]
-* Lahden maakuntakirjasto-kaupunginkirjasto [kuvat]
-* Lahden kaupunginteatteri [kuunnelmat]
-* Lahden kaupunginmuseo [kuvat ja tekstit]
-* Lahden Tekninen ja ympäristötoimiala [kuvat ja kartat]
-* Lahtelaisen sanakirja – Hannu Kivilä [tekstit]
-* Päijät-Häme-wiki [kuvat ja tekstit]
-* SA-kuva-arkisto [kuvat]
+* Albumit auki > [kuvat]
+* FINNA.FI > [kuvat]
+* Lahden maakuntakirjasto-kaupunginkirjasto > [kuvat]
+* Lahden kaupunginteatteri > [kuunnelmat]
+* Lahden kaupunginmuseo > [kuvat ja tekstit]
+* Lahden Tekninen ja ympäristötoimiala > [kuvat ja kartat]
+* Lahtelaisen sanakirja – Hannu Kivilä > [tekstit]
+* Päijät-Häme-wiki > [kuvat ja tekstit]
+* SA-kuva > [kuvat]
 
 ### Yksityishenkilöt
 
