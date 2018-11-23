@@ -34,11 +34,6 @@ Tekninen toteutus on Juuso Lehtisen.
 * Kai R. Lehtonen [kuvat ja videot]
 * Muut yksityishenkilöiden kuvat ovat Albumit auki -sivulta
 
-### Sivun suunnittelu ja toteutus
-
-* Juuso Lehtinen
-* Sauli Hirvonen & Lahti-Seura ry
-
 ### LINKIT
 
 [Lahti-Seura ry](http://www.lahtiseura.fi/)<br>
