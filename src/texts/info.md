@@ -12,7 +12,7 @@ Lahden kaupunginteatteri on tehnyt vuoden 1918-tapahtumiin liittyvän kuunnelmas
 
 Tekstiosuudet ovat Lahden kaupunginkirjaston ylläpitämästä Päijät-Häme-wikistä, Lahden kaupunginmuseon Kuka Mitä Lahti -sivustolta ja Hannu Kivilän Lahtelaisen sanakirjasta. Lisäksi sivulle on merkitty yksittäisiä tietoja eri kohteista ja paikoista sekä tapahtumista.
 
-Sivustoa kehitetään jatkuvasta. Sivulle voi tarjota materiaalia, kuten kuvia ja tekstiä. Yhteystiedot löytyvät täältä (http://www.linkki/).
+Sivustoa kehitetään jatkuvasta. Sivulle voi tarjota materiaalia, kuten kuvia ja tekstiä. Yhteystiedot (http://www.linkki/).
 
 Aloite sivustosta tuli Juuso Lehtiseltä, jonka käsialaa on mm. helsinkiennen.fi-sivusto ja Lahtikartalla.fi.sivu perustuu samalle ajatukselle. Sivustoa ylläpitää Lahti-Seura ja sivuston sisällön on suunnitellut ja toimittanut Sauli Hirvonen.
 Tekninen toteutus on Juuso Lehtisen.
