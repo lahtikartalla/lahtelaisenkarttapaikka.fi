@@ -61,10 +61,10 @@ Tekninen toteutus on Juuso Lehtisen.
 ### LINKIT
 
 [Lahti-Seura ry](http://www.lahtiseura.fi/)<br>
-Vuonna 1946 perustettu kotiseutuyhdistys
+Vuonna 1946 perustettu kotiseutuyhdistys.
 
 [Lahtelaisen sanakirja](http://www.lahtiseura.fi/julkaisut/hannu-kivila-lahtelaisen-sanakirja/)<br>
-Hannu Kivilän kirjoittama ja vuonna 2015 julkaistu sanakirja
+Hannu Kivilän kirjoittama ja vuonna 2015 julkaistu sanakirja.
 
 [Kuka, mitä, Lahti](http://www.lahdenmuseot.fi/kuka-mita-lahti/etusivu/)<br>
 Lahden kaupunginmuseon ylläpitämä tietopankki.
@@ -73,10 +73,10 @@ Lahden kaupunginmuseon ylläpitämä tietopankki.
 Lahdessa vuonna 2013 alkanut kotiseutufilmien keräyshanke, johon kuuluvat myös Lahti-filminäytökset elokuvateatteri Kino Iiriksessä.
 
 [Albumit auki](https://albumitauki.fi/group/lahti)<br>
-Helsingin Medialasipalatsi ylläpitämä avoin valokuva
+Helsingin Medialasipalatsin ylläpitämä avoin valokuva-albumi. 
 
 [Helsinkiennen.fi](http://www.helsinkiennen.fi)<br>
-Juuso Lehtisen tekemä karttoihin perustuva sivusto
+Juuso Lehtisen tekemä karttoihin perustuva sivusto.
 
 [FINNA](https://www.finna.fi/)
 Finna.fi on hakupalvelu, josta löydät aineistoja suomalaisista arkistoista, kirjastoista ja museoista.
@@ -87,8 +87,10 @@ Päijät-Häme-wikiin kerätään Päijät-Hämeen maakuntaan kuuluviin paikkaku
 [SA-kuva-arkisto](http://sa-kuva.fi/)
 Historiallisesti ainutlaatuinen talvi-, jatko- ja Lapin sodan valokuvakokoelma syksyn 1939 ylimääräisistä harjoituksista Lapin sotaan. Kuva-aiheina ovat mm. kotirintama, sotateollisuus, evakot ja sotatapahtumat rintamalla.
 
+### Aiheeseen liittyvää
+
 [Ylinen Viipurintie](http://www.lahenlehti.net/?p=7762)<br>
-Kaksiosainen yhteenveto historiallisesta maantiestä, joka kulki Lahden läpi
+Kaksiosainen yhteenveto historiallisesta maantiestä, joka kulki Lahden läpi.
 
 [Lahden satamarata](http://www.lahenlehti.net/?p=6128)<br>
 Vesijärven sataman radan historiaa.
