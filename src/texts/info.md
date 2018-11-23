@@ -15,7 +15,7 @@ Sivustoa kehitetään jatkuvasta. Sivulle voi tarjota materiaalia, kuten kuvia j
 Aloite sivustosta tuli Juuso Lehtiseltä, jonka käsialaa on mm. helsinkiennen.fi-sivusto ja lahtikartalla.fi perustuu samalle ajatukselle. Sivustoa ylläpitää Lahti-Seura ja sivuston sisällön on suunnitellut ja toimittanut Sauli Hirvonen.
 Tekninen toteutus on Juuso Lehtisen.
 
-## YHTEISTYÖKUMPPANIT / LÄHTEET
+## LÄHTEET
 
 ### Yhteisöt ja sivustot
 
