@@ -65,7 +65,7 @@ Juuso Lehtisen tekemä karttoihin perustuva sivusto.
 Finna.fi on hakupalvelu, josta löydät aineistoja suomalaisista arkistoista, kirjastoista ja museoista.
 
 [Päijät-Häme-wiki](http://www.paijat-hamewiki.fi/)
-Päijät-Häme-wikiin kerätään Päijät-Hämeen maakuntaan kuuluviin paikkakuntiin liittyvää aineistoa eli asioita, tapahtumia, historiaa, henkilöitä ja kulttuuria käsitteleviä artikkeleita.
+Wikiin kerätään Päijät-Hämeen maakuntaan kuuluviin paikkakuntiin liittyvää aineistoa eli asioita, tapahtumia, historiaa, henkilöitä ja kulttuuria käsitteleviä artikkeleita.
 
 [SA-kuva-arkisto](http://sa-kuva.fi/)
 Historiallisesti ainutlaatuinen talvi-, jatko- ja Lapin sodan valokuvakokoelma syksyn 1939 ylimääräisistä harjoituksista Lapin sotaan. Kuva-aiheina ovat mm. kotirintama, sotateollisuus, evakot ja sotatapahtumat rintamalla.
