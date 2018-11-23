@@ -6,9 +6,9 @@ Karttoihin on merkitty tietoa kuvien ja tekstin sekä videoiden että kuunnelmie
 
 Kuvista ilmoitetaan aina kuvalähde tai valokuvaaja. Kuvat ovat pääosin vapaista kuvalähteistä kuten Albumit auki, FINNA ja SA-kuvat. Lisäksi sivustolla on Lahden kaupungin Teknisen ja ympäristötoimialan arkiston kuvia. Lisäksi yksityishenkilöt ovat luovuttaneet omia kuviaan ja videoitaan sivustolle.
 
-Lahden kaupunginteatteri on tehnyt vuoden 1918-tapahtumiin liittyvän kuunnelmasarjan, jotka ovat kuunneltavissa.
+Sivustolla on kuunneltavissa Lahden kaupunginteatterin tuottamaja toteuttama 1918-tapahtumiin liittyvä kuunnelmasarjan.
 
-Tekstiosuudet ovat Lahden kaupunginkirjaston ylläpitämästä Päijät-Häme-wikistä, Lahden kaupunginmuseon Kuka Mitä Lahti -sivustolta ja Hannu Kivilän Lahtelaisen sanakirjasta. Lisäksi sivulle on merkitty yksittäisiä tietoja eri kohteista ja paikoista sekä tapahtumista.
+Tekstiosuudet ovat Lahden kaupunginkirjaston ylläpitämästä Päijät-Häme-wikistä, Lahden kaupunginmuseon Kuka Mitä Lahti -sivustolta ja Hannu Kivilän Lahtelaisen sanakirjasta. Lisäksi sivulle on merkitty yksittäisiä tietoja eri kohteista ja paikoista sekä tapahtumista. Sivustolle voidaan myös kerätä henkilöiden muistitietoa tietyistä paikoista tai tapahtumista.
 
 Sivustoa kehitetään jatkuvasta. Sivulle voi tarjota materiaalia, kuten kuvia ja tekstiä. Yhteystiedot (http://www.linkki/).
 
@@ -74,7 +74,7 @@ Historiallisesti ainutlaatuinen talvi-, jatko- ja Lapin sodan valokuvakokoelma s
 Kaksiosainen yhteenveto historiallisesta maantiestä, joka kulki Lahden läpi.
 
 [Lahden satamarata](http://www.lahenlehti.net/?p=6128)<br>
-Vesijärven sataman radan historiaa.
+Vesijärven sataman radan historia.
 
 [Sibeliusrata Lahteen](http://www.topparoikka.net/mytajaisten-varikko/sibeliusrata-lahteen/)<br>
 Satamaradan palauttamiseen tähtäävä hanke.
