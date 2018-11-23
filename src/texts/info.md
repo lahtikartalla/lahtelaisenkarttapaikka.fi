@@ -22,7 +22,7 @@ Tekninen toteutus on Juuso Lehtisen.
 * Albumit auki > [kuvat]
 * FINNA.FI > [kuvat]
 * Lahden maakuntakirjasto-kaupunginkirjasto > [kuvat]
-* Lahden kaupunginteatteri > [kuunnelmat]
+* Lahden kaupunginteatteri > [kuunnelmat http://lahtikartalla.fi/#/1918]
 * Lahden kaupunginmuseo > [kuvat ja tekstit]
 * Lahden Tekninen ja ympäristötoimiala > [kuvat ja kartat]
 * Lahtelaisen sanakirja – Hannu Kivilä > [tekstit]
