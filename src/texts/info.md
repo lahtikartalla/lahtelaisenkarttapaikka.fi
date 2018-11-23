@@ -58,7 +58,7 @@ Tekninen toteutus on Juuso Lehtisen.
 ### Sivun suunnittelu ja toteutus
 
 * Juuso Lehtinen
-* Lahti-Seura ry
+* Sauli Hirvonen & Lahti-Seura ry
 
 ### LINKIT
 
@@ -69,10 +69,10 @@ Vuonna 1946 perustettu kotiseutuyhdistys
 Hannu Kivilän kirjoittama ja vuonna 2015 julkaistu sanakirja
 
 [Kuka, mitä, Lahti](http://www.lahdenmuseot.fi/kuka-mita-lahti/etusivu/)<br>
-Lahden kaupunginmuseon ylläpitämä
+Lahden kaupunginmuseon ylläpitämä tietopankki.
 
 [Kotiseutufilmit](http://kinoiiris.com/elokuvakeskus/lahti-filmit/)<br>
-Lahdessa vuonna 2013 alkanut kotiseutufilmien keräyshanke, johon kuuluu myös
+Lahdessa vuonna 2013 alkanut kotiseutufilmien keräyshanke, johon kuuluvat myös Lahti-filminäytökset elokuvateatteri Kino Iiriksessä.
 
 [Albumit auki](https://albumitauki.fi/group/lahti)<br>
 Helsingin Medialasipalatsi ylläpitämä avoin valokuva
@@ -93,10 +93,10 @@ Kaksiosainen yhteenveto historiallisesta maantiestä, joka kulki Lahden läpi
 Vesijärven sataman radan historiaa
 
 [Sibeliusrata Lahteen](http://www.topparoikka.net/mytajaisten-varikko/sibeliusrata-lahteen/)<br>
-Satamaradan palauttamiseen tähtäävä hanke
+Satamaradan palauttamiseen tähtäävä hanke.
 
 [Lahden linjakartta](https://www.google.com/maps/d/viewer?mid=12CifqxeYSh8vvk2hfXl1CoA8pVI&ll=60.970186494847795%2C25.666594499999974&z=10)<br>
-Lahden linja-autolinjoja eri vuosilta
+Lahden linja-autolinjoja eri vuosilta.
 
 ## YHTEYSTIEDOT
 
@@ -106,5 +106,5 @@ puheenjohtaja@lahtiseura.fi <br>
 Puh. 050 3085303 <br>
 
 Sivuston idea ja tekninen toteutus: Juuso Lehtinen <br>
-Sisällön suunnittelu: Sauli Hirvonen <br>
+Sisällön suunnittelu ja tuotanto: Sauli Hirvonen <br>
 Sivun ylläpito: Lahti-Seura ry <br>
