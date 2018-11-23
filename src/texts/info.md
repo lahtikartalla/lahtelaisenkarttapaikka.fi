@@ -1,22 +1,20 @@
 ## ESITTELY
 
-Lahtikartalla.fi-sivu perustuu Lahden kartoille eri vuosikymmeniltä, kyläajoista
-jopa 1700-luvulta aina tähän päivään asti. Kartat ovat maantieteellisesti rajattu
+Lahtikartalla.fi-sivu perustuu Lahden kartoille eri vuosikymmeniltä. Kartat ovat maantieteellisesti rajattu
 pääasiassa nykyisen kaupungin keskustan alueelle. Karttoja on on jokaiselta vuosikymmeneltä
 alkaen 1870-luvulta. Kartat ovat mm. topografisia, asemakaavoja sekä osoite-
 ja opaskarttoja. Kaikki vanhat kartat ovat kohdistettu niin, että alla toimii
 vertailukarttana Google Maps. Näin on helppo tehdä vertailua menneen ja nykyisen välillä.
-Kartat ovat Lahden Teknisen ja ympäristötoimialan omasta arkistosta
-ja saatu sivuston käyttöön.
+Kartat ovat Lahden Teknisen ja ympäristötoimialan omasta arkistosta ja saatu sivuston käyttöön.
 
 Karttoihin on merkitty tietoa kuvien ja tekstin sekä videoiden että kuunnelmien muodossa.
 Sama sisältö voi toistua useammallakin vuosikymmenellä. Jokaisen merkkauksen kohdalla on
 merkitty lähde tai linkki alkuperäiseen lähteeseen.
 
-Kuvat ovat vapaista kuten Albumit auki, FINNA ja SA-Int-kuvat sekä Lahden Teknisen
-ja ympäristötoimialan arkistosta saatuja.
+Kuvat ovat vapaista kuvalähteistä kuten Albumit auki, FINNA ja SA-kuvat. Lisäksi sivustolla on Lahden kaupungin Teknisen
+ja ympäristötoimialan arkiston kuvia.
 
-Kuvista ilmoitetaan kuvalähde tai valokuvaaja.
+Kuvista ilmoitetaan aina kuvalähde tai valokuvaaja.
 
 Lahden kaupunginteatteri on tehnyt vuoden 1918-tapahtumiin kuunnelmia,
 jotka on sivulla kuunneltavissa.
@@ -53,7 +51,7 @@ Tekninen toteutus on Juuso Lehtisen.
 ### Yksityishenkilöt
 
 * Kai R. Lehtonen [kuvat ja videot]
-* Sauli Hirvonen [kuvat]
+* Muut yksityishenkilöiden kuvista on saatu Albumit auki -sivulta
 
 ### Sivun suunnittelu ja toteutus
 
@@ -81,16 +79,19 @@ Helsingin Medialasipalatsi ylläpitämä avoin valokuva
 Juuso Lehtisen tekemä karttoihin perustuva sivusto
 
 [FINNA](https://www.finna.fi/)
+Finna.fi on hakupalvelu, josta löydät aineistoja suomalaisista arkistoista, kirjastoista ja museoista.
 
 [Päijät-Häme-wiki](http://www.paijat-hamewiki.fi/)
+Päijät-Häme-wikiin kerätään Päijät-Hämeen maakuntaan kuuluviin paikkakuntiin liittyvää aineistoa eli asioita, tapahtumia, historiaa, henkilöitä ja kulttuuria käsitteleviä artikkeleita.
 
 [SA-kuva-arkisto](http://sa-kuva.fi/)
+Historiallisesti ainutlaatuinen talvi-, jatko- ja Lapin sodan valokuvakokoelma syksyn 1939 ylimääräisistä harjoituksista Lapin sotaan. Kuva-aiheina ovat mm. kotirintama, sotateollisuus, evakot ja sotatapahtumat rintamalla.
 
 [Ylinen Viipurintie](http://www.lahenlehti.net/?p=7762)<br>
 Kaksiosainen yhteenveto historiallisesta maantiestä, joka kulki Lahden läpi
 
 [Lahden satamarata](http://www.lahenlehti.net/?p=6128)<br>
-Vesijärven sataman radan historiaa
+Vesijärven sataman radan historiaa.
 
 [Sibeliusrata Lahteen](http://www.topparoikka.net/mytajaisten-varikko/sibeliusrata-lahteen/)<br>
 Satamaradan palauttamiseen tähtäävä hanke.
