@@ -12,7 +12,7 @@ Tekstiosuudet ovat Lahden kaupunginkirjaston ylläpitämästä Päijät-Häme-wi
 
 Sivustoa kehitetään jatkuvasta. Sivulle voi tarjota materiaalia, kuten kuvia ja tekstiä. Yhteystiedot (http://www.linkki/).
 
-Aloite sivustosta tuli Juuso Lehtiseltä, jonka käsialaa on mm. helsinkiennen.fi-sivusto ja Lahtikartalla.fi perustuu samalle ajatukselle. Sivustoa ylläpitää Lahti-Seura ja sivuston sisällön on suunnitellut ja toimittanut Sauli Hirvonen.
+Aloite sivustosta tuli Juuso Lehtiseltä, jonka käsialaa on mm. helsinkiennen.fi-sivusto ja lahtikartalla.fi perustuu samalle ajatukselle. Sivustoa ylläpitää Lahti-Seura ja sivuston sisällön on suunnitellut ja toimittanut Sauli Hirvonen.
 Tekninen toteutus on Juuso Lehtisen.
 
 ## YHTEISTYÖKUMPPANIT / LÄHTEET
@@ -59,7 +59,7 @@ Helsingin Medialasipalatsin ylläpitämä avoin valokuva-albumi.
 [Helsinkiennen.fi](http://www.helsinkiennen.fi)<br>
 Juuso Lehtisen tekemä karttoihin perustuva sivusto.
 
-[FINNA](https://www.finna.fi/)
+[FINNA.FI](https://www.finna.fi/)
 Finna.fi on hakupalvelu, josta löydät aineistoja suomalaisista arkistoista, kirjastoista ja museoista.
 
 [Päijät-Häme-wiki](http://www.paijat-hamewiki.fi/)
