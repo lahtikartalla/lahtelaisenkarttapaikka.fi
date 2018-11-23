@@ -60,12 +60,15 @@ Helsingin Medialasipalatsin ylläpitämä avoin valokuva-albumi.
 Juuso Lehtisen tekemä karttoihin perustuva sivusto.
 
 [FINNA.FI](https://www.finna.fi/)
+
 Finna.fi on hakupalvelu, josta löydät aineistoja suomalaisista arkistoista, kirjastoista ja museoista.
 
 [Päijät-Häme-wiki](http://www.paijat-hamewiki.fi/)
+
 Wikiin kerätään Päijät-Hämeen maakuntaan kuuluviin paikkakuntiin liittyvää aineistoa eli asioita, tapahtumia, historiaa, henkilöitä ja kulttuuria käsitteleviä artikkeleita.
 
 [SA-kuva-arkisto](http://sa-kuva.fi/)
+
 Historiallisesti ainutlaatuinen talvi-, jatko- ja Lapin sodan valokuvakokoelma syksyn 1939 ylimääräisistä harjoituksista Lapin sotaan. Kuva-aiheina ovat mm. kotirintama, sotateollisuus, evakot ja sotatapahtumat rintamalla.
 
 ### Aiheeseen liittyvää
