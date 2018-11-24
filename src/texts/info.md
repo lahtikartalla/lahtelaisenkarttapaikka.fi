@@ -4,9 +4,9 @@ Lahtikartalla.fi-sivu perustuu Lahden kartoille eri vuosikymmeniltä. Kartat ova
 
 Karttoihin on merkitty tietoa kuvien ja tekstin sekä videoiden että kuunnelmien muodossa. Sama sisältö voi toistua useammallakin vuosikymmenellä. Jokaisen julkaisun kohdalla on merkitty lähde tai linkki alkuperäiseen lähteeseen.
 
-Kuvista ilmoitetaan aina kuvalähde tai valokuvaaja. Kuvat ovat pääosin vapaista kuvalähteistä kuten Albumit auki, FINNA ja SA-kuvat. Lisäksi sivustolla on Lahden kaupungin Teknisen ja ympäristötoimialan arkiston kuvia. Lisäksi yksityishenkilöt ovat luovuttaneet omia kuviaan ja videoitaan sivustolle.
+Kuvista ilmoitetaan aina kuvalähde tai valokuvaaja. Kuvat ovat pääosin vapaista kuvalähteistä kuten Albumit auki, FINNA ja SA-kuvat. Lisäksi sivustolla on Lahden kaupungin Teknisen ja ympäristötoimialan arkiston kuvia sekä yksityishenkilöiden luovuttamia kuvia ja videoita.
 
-Sivustolla on kuunneltavissa Lahden kaupunginteatterin tuottamaja toteuttama 1918-tapahtumiin liittyvä kuunnelmasarjan.
+Sivustolla on kuunneltavissa Lahden kaupunginteatterin tuottama ja toteuttama 1918-tapahtumiin liittyvä kuunnelmasarja.
 
 Tekstiosuudet ovat Lahden kaupunginkirjaston ylläpitämästä Päijät-Häme-wikistä, Lahden kaupunginmuseon Kuka Mitä Lahti -sivustolta ja Hannu Kivilän Lahtelaisen sanakirjasta. Lisäksi sivulle on merkitty yksittäisiä tietoja eri kohteista ja paikoista sekä tapahtumista. Sivustolle voidaan myös kerätä henkilöiden muistitietoa tietyistä paikoista tai tapahtumista.
 
