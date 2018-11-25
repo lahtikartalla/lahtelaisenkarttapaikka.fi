@@ -1,5 +1,9 @@
 .mapContainer {
-  /* height: calc(100vh - 120px); */
+  height: calc(100vh - 60px);
+  /* height: 100vh; */
+}
+
+.fullMapContainer {
   height: 100vh;
 }
 

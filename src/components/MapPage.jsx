@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import { number } from 'prop-types';
+import { number, bool } from 'prop-types';
 import L from 'leaflet';
-// import { Modal } from 'react-bootstrap';
 
 import 'leaflet/dist/leaflet.css';
 
-// import YearSelector from './YearSelector';
+import YearSelector from './YearSelector';
 
 import './MapPage.css';
 import maps from '../maps.json';
@@ -74,16 +73,19 @@ class MapPage extends Component {
   }
 
   render() {
+    const mapContainerClass = this.props.noYearSelector ? 'fullMapContainer' : 'mapContainer';
+
     return (
       <div className="mapPage container-fluid">
         {this.state.showImage ?
           <ImageView feature={this.state.feature} close={this.close} /> : null}
         <div className="row">
           <div className="col-md-12">
-            <div id="mapContainer" className="mapContainer" />
+            <div id="mapContainer" className={mapContainerClass} />
           </div>
         </div>
-        { /* <div className="row">
+        {!this.props.noYearSelector &&
+        <div className="row">
           <div className="col-md-12">
             <YearSelector
               years={this.state.years}
@@ -91,18 +93,21 @@ class MapPage extends Component {
               selectYear={this.selectYear}
             />
           </div>
-        </div> */ }
+        </div>
+        }
       </div>
     );
   }
 }
 
 MapPage.propTypes = {
-  year: number
+  year: number,
+  noYearSelector: bool
 };
 
 MapPage.defaultProps = {
-  year: 1950
+  year: 1950,
+  noYearSelector: false
 };
 
 export default MapPage;

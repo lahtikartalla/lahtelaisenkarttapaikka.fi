@@ -12,6 +12,6 @@ export default () => (
     <Route path="/" exact component={FrontPage} />
     <Route path="/kartta" component={MapPage} />
     <Route path="/info" component={InfoPage} />
-    <Route path="/1918" component={() => <MapPage year={1918} />} />
+    <Route path="/1918" component={() => <MapPage year={1918} noYearSelector />} />
   </div>
 );
