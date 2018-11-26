@@ -74,6 +74,9 @@ Vesijärven sataman radan historia.
 [Sibeliusrata Lahteen](http://www.topparoikka.net/mytajaisten-varikko/sibeliusrata-lahteen/)<br>
 Satamaradan palauttamiseen tähtäävä hanke.
 
+[Lahtiwood](http://www.lahtiwood.com/)<br>
+Puuta ja rakentamista.
+
 [Lahden linjakartta](https://www.google.com/maps/d/viewer?mid=12CifqxeYSh8vvk2hfXl1CoA8pVI&ll=60.970186494847795%2C25.666594499999974&z=10)<br>
 Lahden linja-autolinjoja eri vuosilta.
 
