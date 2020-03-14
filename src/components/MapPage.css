@@ -1,0 +1,67 @@
+.mapContainer {
+  height: calc(100vh - 60px);
+  /* height: 100vh; */
+}
+
+.fullMapContainer {
+  height: 100vh;
+}
+
+.noPadding {
+  padding: 0;
+}
+
+.imageView {
+  position: fixed;
+  z-index: 1005;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.imageContainer {
+  height: 100%;
+  text-align: center;
+}
+
+.imageContainer img {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  /* max-height: 100%; */
+  max-height: 60%;
+}
+
+.imageText {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.sourceText {
+  font-size: 0.8em;
+}
+
+.closeIcon {
+  position: absolute;
+  color: white;
+  right: 12px;
+  top: 3px;
+  font-size: 2em;
+  z-index: 1001;
+  cursor: pointer;
+}
+
+.audioText {
+  padding: 1em;
+  text-align: left;
+}
+
+audio {
+  margin-top: 1em;
+}

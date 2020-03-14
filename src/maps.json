@@ -1,0 +1,55 @@
+{
+  "basemaps": [
+    {
+      "name": "1870",
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/senaatti"
+    },
+    {
+      "name": "1918",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1930-perus"
+    },
+    {
+      "name": "1920",
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1925",
+      "bounds": [60.94991191610331, 25.57166429327330, 61.02334647592856, 25.72523711688948]
+    },
+    {
+      "name": "1930",
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1930"
+    },
+    {
+      "name": "1940",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1947"
+    },
+    {
+      "name": "1950",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1957"
+    },
+    {
+      "name": "1960",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1962",
+      "bounds": [60.90962182686773, 25.46624196244031, 61.04392517130266, 25.72040136532188]
+    },
+    {
+      "name": "1970",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1975",
+      "bounds": [60.90962182686773, 25.46624196244031, 61.04392517130266, 25.72040136532188]
+    },
+    {
+      "name": "1980",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1982",
+      "bounds": [60.93177205563259, 25.41192087284762, 61.04222792287798, 25.76451600271654]
+    },
+    {
+      "name": "1990",
+      "hiZoom": true,
+      "url": "http://www.lahtikartalla.fi.s3-website.eu-central-1.amazonaws.com/kartat/1991"
+    }
+  ]
+}
